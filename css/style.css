@@ -1,0 +1,82 @@
+.topContainer{
+    background-color: #e4f9f5;
+}
+
+h1{
+    color: #66bfbf;
+    font-family: "Sacramento", cursive;
+    font-size: 25 rem;
+}
+
+.cloud{
+    position: relative;
+    margin-top: 50px;
+}
+
+#myImage{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+}
+
+p, .intro{
+    font-family : "Merriweather", serif;
+}
+
+hr {
+    width: 100px; 
+    height: 10px; 
+    border-top: 6px dotted #b0e1f6; 
+    margin: auto;
+}
+
+h2{
+    color: #66bfbf;
+    font-size: 25 rem;
+    font-family:"Merriweather", serif;
+}
+
+h3{
+    color: #66bfbf;
+    font-size: 20 rem;
+    font-family:"Merriweather", serif;
+}
+
+.card-img-top{
+    height: 150px;
+    width: 150px;
+    margin: auto;
+}
+
+.roleDesc{
+    text-align: left;
+}
+
+
+.companyName{
+    color: #66bfbf;
+}
+
+.cmpyLoc{
+    color: rgb(167, 167, 167);
+}
+
+.btn-custom{
+    background-color: #66bfbf;
+    color: white;
+    transition: background-color 0.15s; 
+}
+
+.btn-custom:hover{
+    background-color: #e4f9f5;
+    color: white;
+}
+
+footer{
+    background-color: #66bfbf;
+}
+
+/* .btn-custom:hover{
+    background-color: #4ab3a1;
+    color: white;
+} */
